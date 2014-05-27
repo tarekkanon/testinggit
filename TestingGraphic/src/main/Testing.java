@@ -17,7 +17,7 @@ public class Testing {
 		/**
 		 * expired value 3
 		 */
-		Expired(3),
+		Expirqeqeed(3),
 		
 		/**
 		 *  value 2 
@@ -51,7 +51,7 @@ public class Testing {
 	public static void main(String[] args) {
 		
 		
-		LicenseStatus as = LicenseStatus.Expired;
+		LicenseStatus as = LicenseStatus.Expirqeqeed;
 		System.out.println(as);
 		
 		switch (as) {
